@@ -342,4 +342,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- [Amrit Raj Vats](https://github.com/real-byte)
+
+- [Khushi Saxena](https://github.com/Khushisaxena400)
